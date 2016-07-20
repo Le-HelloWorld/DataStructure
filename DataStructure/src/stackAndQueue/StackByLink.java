@@ -1,4 +1,4 @@
-package stack;
+package stackAndQueue;
 
 public class StackByLink<E> {
 	

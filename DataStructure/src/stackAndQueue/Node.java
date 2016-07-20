@@ -1,4 +1,4 @@
-package stack;
+package stackAndQueue;
 
 public class Node<E> {
 	Node<E> next = null;
